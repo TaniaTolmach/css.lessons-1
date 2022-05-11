@@ -1,0 +1,33 @@
+.center {
+font-family: Raleway;
+font-style: Regular;
+font-size: 36px;
+border-bottom: 1px solid #EC7979;
+text-align: center;
+}
+.center1 {
+width: 1169;
+font-family: Raleway;
+font-style: Regular;
+font-size: 18px;
+text-align: center;
+color: #86878B;
+}
+.center2 {
+    font-family: Open Sans;
+    font-style: Bold;
+    font-size: 24px;
+    
+}
+.center3 {
+    font-family: Raleway;
+    font-style: Regular;
+    font-size: 18px;
+    
+}
+.center4 {
+    margin: 110px;
+    width: 369px;
+    text-align: center;
+    display: inline-block;
+}
